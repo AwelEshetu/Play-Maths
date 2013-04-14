@@ -1,3 +1,6 @@
+﻿// read comments for more information 
+﻿
+﻿
 ﻿var t;
 var operators = ['+', '-', '*', '/']; 
 var answerSpaces = ['result-bubble', 'result-bubble1', 'result-bubble2']; 
